@@ -5,3 +5,4 @@ pronounceButton.addEventListener('click', () => {
   audio.currentTime = 0;
   audio.play();
 });
+
